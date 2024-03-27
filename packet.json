@@ -1,0 +1,26 @@
+{
+    "name": "microproject1",
+    "version": "1.0.0",
+    "description": "Quick demonstration about using Node.JS with Express to create a simple website",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js"
+    },
+    "keywords": [
+        "Node.JS",
+        "Express.JS",
+        "HTML",
+        "CSS"
+    
+    ],
+    "author": "Nishita,Mandeep singh",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.13"
+    }
+  }
+  
